@@ -30,7 +30,7 @@ the global pandemic has created significant additional momentum for change.
 
 The ESG agenda encompasses reporting, strategy, and business transformation
 
-![Screenshot (209)](https://user-images.githubusercontent.com/117138832/200370859-c9c19edf-7a3b-4916-a424-0ba346965063.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/117138832/200370859-c9c19edf-7a3b-4916-a424-0ba346965063.png) 
 
 
 1)Reimagined reporting; The most immediate call for action often is some combination of heightened regulatory requirements, risk awareness, and demand for data and transparency to enable the management and disclosure of ESG factors. Everything from carbon emissions to racial and gender balance to the sustainability of sourcing strategies is under the microscope; investors, governments, and other stakeholders are interested in assessing whether businesses have identified and are managing ESG risks. As companies reevaluate what they report publicly, formal nonfinancial disclosures are starting to augment or replace nonbinding frameworks.
@@ -126,6 +126,20 @@ When leaders connect ESG with their strategy—as opposed to having it be a “b
 
 The impetus for business to address ESG issues and opportunities is likely to continue to grow, spurred by investors and shareholders, governments and policymakers, employees, suppliers, customers, and citizens more broadly. There is a heightened awareness of the risks that need to be identified and managed, but there is also a growing sense of the huge opportunities offered by the scale of the transformation society is now facing. Whether your journey starts as a response to a new reporting requirement or reflects a top-down strategy refresh, it will lead to a pervasive reappraisal of operations, activities, and (especially) outcomes throughout the business. It will also create opportunities to identify and realize significant new sources of value creation.
 
+
+Consumers and employees are rewarding business for ESG performance;
+
+![Screenshot (215)](https://user-images.githubusercontent.com/117138832/200377331-5c0271a7-7c72-4395-abc8-60359094e565.png)
+
+
+Consumers to companies: Spend more time and resources on all of the components of ESG and accelerate diversity and inclusion progress
+
+![Screenshot (217)](https://user-images.githubusercontent.com/117138832/200377377-16368186-3946-4a4e-99bd-c3b5a505bd65.png)
+
+
+Climate change is high on everyone’s ESG investment wishlist, with consumers and employees standing firmly behind the corporate race to net zero. For companies, only privacy and data security is a bigger investment priority. Our findings show that access to healthcare, safety in the workplace and compliance with regulations also rank as high priorities for consumers and companies.
+
+There is, however, a glaring disconnect between consumer and management perception. Many more executives than consumers believe that companies are increasing investments across ESG issues. Consumers make it clear that corporate actions matter more to them than words. Where they see progress, they give companies credit. Almost three-quarters (74%) said companies care much more about the environment than they did ten years ago. But almost as many (73%) told us they feel let down by what they view as slow progress on diversity and inclusion (D&I). In fact, 64% of the business leaders themselves expressed disappointment that D&I commitments are not yet showing desired results.
 
 
 
