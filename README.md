@@ -3,6 +3,24 @@
 
 Corporate social responsibility (CSR)/ corporate citizenship is a self-regulating business model that helps a company be socially accountable to itself, its stakeholders, and the public. 
 
+Now let's understand CSR with an example;For a company to be socially responsible, it first needs to be accountable to itself and its shareholders. Companies that adopt CSR programs have often grown their business to the point where they can give back to society. Thus, CSR is typically a strategy that's implemented by large corporations. After all, the more visible and successful a corporation is, the more responsibility it has to set standards of ethical behavior for its peers, competition, and industry.
+
+
+TYPES include in CSR....
+
+Environmental Responsibility; Reducing pollution, waste, natural resource consumption, and emissions through its manufacturing process.
+
+Ethical Responsibility;Fair treatment across all types of customers regardless of age, race, culture, or sexual orientation.
+
+Philanthropic Responsibility;Whether a company donates profit to charities or causes it believes in.Whether a company only enters into transactions with suppliers or vendors
+
+![image](https://user-images.githubusercontent.com/117138832/200457383-a724587d-73ab-43dd-ae39-02da3b238421.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117138832/200457223-096e5484-598a-497d-85b4-76d793c7f6af.png)
+
+
 are you ready for ESG revolution?
 
 then lets star......
